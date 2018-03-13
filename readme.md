@@ -21,6 +21,8 @@ Along with ```document.querySelector```, something that I haven't used in a long
 
 #### Customizations & Improvements
 
+[![https://gyazo.com/f17d74321bf9a16eff4a8bfb62fe21bb](https://i.gyazo.com/f17d74321bf9a16eff4a8bfb62fe21bb.gif)](https://gyazo.com/f17d74321bf9a16eff4a8bfb62fe21bb)
+
 ```javascript function showThoseWords(elem) { 
         // Search for the element with the .bigwords class in the document
         const bigDiv = document.querySelector('.bigwords');
