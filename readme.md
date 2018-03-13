@@ -8,7 +8,8 @@ No Frameworks × No Compilers × No Libraries × No Boilerplate
 
 ## A Course by Wes Bos
 
-More details [here](https://javascript30.com/)
+More details [here](https://javascript30.com/), you should definitely check out his site, along with some of his other tutorials.
+
 The site is live on [GitHub Pages](https://sherwino.github.io/js30-1/) if you want to try it out.
 
 ### 01 - JavaScript Drum Kit
