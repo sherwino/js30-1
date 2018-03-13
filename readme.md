@@ -1,12 +1,15 @@
 # JavaScript30
 
 30 Day Vanilla JS Coding Challenge
+
 Build 30 things in 30 days with 30 tutorials
-No Frameworks×No Compilers×No Libraries×No Boilerplate
+
+No Frameworks × No Compilers × No Libraries × No Boilerplate
 
 ## A Course by Wes Bos
 
 More details [here](https://javascript30.com/)
+The site is live on [GitHub Pages](https://sherwino.github.io/js30-1/) if you want to try it out.
 
 ### 01 - JavaScript Drum Kit
 
