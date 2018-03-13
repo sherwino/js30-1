@@ -21,4 +21,19 @@ Along with ```document.querySelector```, something that I haven't used in a long
 
 #### Customizations & Improvements
 
-None yet, copied every instruction almost word for word.
+```javascript function showThoseWords(elem) { 
+        // Search for the element with the .bigwords class in the document
+        const bigDiv = document.querySelector('.bigwords');
+        // Replace the innerText in this element with the ones that are being sent from the function above
+        // But...since the function above is sending a full element, we need to drill down and only select innertext.
+        // And replace it with the innerText found in the button that is being pressed.
+        // For a cool effect.
+        bigDiv.innerText = elem.innerText;
+        // Then when you are done with that add the bigwords-pressed class to the bigDiv.
+        bigDiv.classList.add('bigwords-pressed');
+
+        // Then after you display the word set a 200 ms timer, and then run the removeWord function
+        // And pass the elem argument to it.
+        setTimeout(removeWord, 200, bigDiv);
+
+    }```
