@@ -38,4 +38,4 @@ Along with ```document.querySelector```, something that I haven't used in a long
         // And pass the elem argument to it.
         setTimeout(removeWord, 200, bigDiv);
 
-    }```
+    }
