@@ -10,7 +10,7 @@ No Frameworks × No Compilers × No Libraries × No Boilerplate
 
 More details [here](https://javascript30.com/), you should definitely check out his site, along with some of his other tutorials.
 
-The site is live on [GitHub Pages](https://sherwino.github.io/js30-1/) if you want to try it out.
+The site is live on [GitHub Pages](https://sherwino.github.io/js30-1/index.html) if you want to try it out.
 
 ### 01 - JavaScript Drum Kit
 
